@@ -1,13 +1,13 @@
 [package]
-name = "stochastic-rs"
+name = "spawn-stochastic"
 version = "0.1.0"
 authors = ["nzengi <zenginureddin1@gmail.com>"]
 edition = "2021"
 description = "A Rust library for simulating multiple stochastic processes including ABM, GBM, Ornstein-Uhlenbeck, Feller Square Root, and Brownian Bridge."
 license = "MIT"
-repository = "https://github.com/nzengi/stochastic-rs"
-documentation = "https://docs.rs/stochastic-rs"
-homepage = "https://github.com/nzengi/stochastic-rs"
+repository = "https://github.com/nzengi/spawn-stochastic"
+documentation = "https://docs.rs/spawn-stochastic"
+homepage = "https://github.com/nzengi/spawn-stochastic"
 keywords = ["stochastic", "finance", "simulation", "mathematics"]
 categories = ["science", "simulation", "mathematics", "finance"]
 

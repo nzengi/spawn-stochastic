@@ -89,7 +89,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "stochastic-rs"
+name = "spawn-stochastic"
 version = "0.1.0"
 dependencies = [
  "rand",
